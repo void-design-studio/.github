@@ -6,7 +6,7 @@
 
 Web design and development studio · Portugal
 
-[Website](https://landing-page-6l5.pages.dev) &nbsp;|&nbsp; [Contact](mailto:void-design-studio@sapo.pt)
+[Website](https://void-design-studio.pages.dev) &nbsp;|&nbsp; [Contact](mailto:void-design-studio@sapo.pt)
 
 </div>
 
@@ -29,7 +29,7 @@ Void Design Studio designs, builds and maintains websites for companies and busi
 
 **Void Design Studio** · Portugal
 Email: [void-design-studio@sapo.pt](mailto:void-design-studio@sapo.pt)
-Website: [landing-page-6l5.pages.dev](https://landing-page-6l5.pages.dev)
+Website: [void-design-studio.pages.dev](https://void-design-studio.pages.dev)
 
 <details>
 <summary><strong>Versão em português</strong></summary>
@@ -51,7 +51,7 @@ A Void Design Studio desenha, desenvolve e mantém websites para empresas e grup
 
 ### Contacto
 
-Email: [void-design-studio@sapo.pt](mailto:void-design-studio@sapo.pt) · Website: [landing-page-6l5.pages.dev](https://landing-page-6l5.pages.dev)
+Email: [void-design-studio@sapo.pt](mailto:void-design-studio@sapo.pt) · Website: [void-design-studio.pages.dev](https://void-design-studio.pages.dev)
 
 </details>
 
