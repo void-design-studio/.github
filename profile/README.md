@@ -1,35 +1,78 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/169304124?v=4" width="88" height="88" alt="Void Design Studio" />
+<img src="https://avatars.githubusercontent.com/u/169304124?v=4" width="96" height="96" alt="Void Design Studio" />
 
 # Void Design Studio
 
+**Websites with a clear identity, built to last.**
+
 Web design and development studio · Portugal
 
-[Website](https://void-design-studio.pages.dev) &nbsp;|&nbsp; [Contact](mailto:void-design-studio@sapo.pt)
+[Website](https://void-design-studio.pages.dev) &nbsp;·&nbsp; [Email us](mailto:void-design-studio@sapo.pt)
 
 </div>
 
----
+<br />
 
 ## About
 
-Void Design Studio designs, builds and maintains websites for companies and business groups. We combine brand-led design with a careful, detail-oriented approach to create digital presences that are fast, accessible and easy to find, in Portuguese and English.
+We design, build and maintain websites for companies and business groups. Our work starts from the brand: every page is shaped around who you are and who you want to reach, with the care for detail that makes the difference between a website that exists and one that works.
+
+Fast, accessible, easy to find, and available in Portuguese and English.
+
+<br />
 
 ## What we offer
 
-- **Web design** — a visual identity that fits your brand and your audience
-- **Website development** — institutional websites and landing pages
-- **Multilingual websites** — content designed for more than one market
-- **Visibility** — search-friendly structure and clear social sharing
-- **Accessibility** — websites that work for everyone
-- **Maintenance and support** — we stay by your side after launch
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web design</h3>
+      A visual identity that fits your brand and your audience.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Website development</h3>
+      Institutional websites and landing pages, ready for every device.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Multilingual websites</h3>
+      Content designed for more than one market and language.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Visibility</h3>
+      Search-friendly structure and clear sharing on social networks.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Accessibility</h3>
+      Websites that work for everyone, whoever is visiting.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Maintenance and support</h3>
+      We stay by your side after launch.
+    </td>
+  </tr>
+</table>
 
-## Contact
+<br />
 
-**Void Design Studio** · Portugal
-Email: [void-design-studio@sapo.pt](mailto:void-design-studio@sapo.pt)
-Website: [void-design-studio.pages.dev](https://void-design-studio.pages.dev)
+## Who we work with
+
+Companies and business groups that want a professional online presence, from a single landing page to a family of websites with a consistent identity.
+
+<br />
+
+## Let's talk
+
+Tell us about your project and we will get back to you.
+
+**Email:** [void-design-studio@sapo.pt](mailto:void-design-studio@sapo.pt)
+**Website:** [void-design-studio.pages.dev](https://void-design-studio.pages.dev)
+
+<br />
 
 <details>
 <summary><strong>Versão em português</strong></summary>
@@ -38,25 +81,36 @@ Website: [void-design-studio.pages.dev](https://void-design-studio.pages.dev)
 
 ### Sobre nós
 
-A Void Design Studio desenha, desenvolve e mantém websites para empresas e grupos empresariais. Combinamos design alinhado com a marca e uma abordagem cuidada e atenta ao detalhe para criar presenças digitais rápidas, acessíveis e fáceis de encontrar, em português e em inglês.
+Desenhamos, desenvolvemos e mantemos websites para empresas e grupos empresariais. O nosso trabalho parte da marca: cada página é pensada em torno de quem é o cliente e de quem quer alcançar, com o cuidado no detalhe que separa um site que apenas existe de um que funciona.
+
+Rápidos, acessíveis, fáceis de encontrar e disponíveis em português e em inglês.
 
 ### O que oferecemos
 
-- **Web design** — uma identidade visual à medida da marca e do público
-- **Desenvolvimento de websites** — sites institucionais e landing pages
-- **Websites multilingues** — conteúdos pensados para mais do que um mercado
-- **Visibilidade** — estrutura otimizada para pesquisa e partilha clara nas redes
-- **Acessibilidade** — websites que funcionam para todos
-- **Manutenção e apoio** — acompanhamos o cliente depois do lançamento
+| | |
+|---|---|
+| **Web design** | Uma identidade visual à medida da marca e do público. |
+| **Desenvolvimento de websites** | Sites institucionais e landing pages, prontos para qualquer dispositivo. |
+| **Websites multilingues** | Conteúdos pensados para mais do que um mercado e idioma. |
+| **Visibilidade** | Estrutura otimizada para pesquisa e partilha clara nas redes sociais. |
+| **Acessibilidade** | Websites que funcionam para todos, seja quem for que os visita. |
+| **Manutenção e apoio** | Acompanhamos o cliente depois do lançamento. |
 
-### Contacto
+### Com quem trabalhamos
 
-Email: [void-design-studio@sapo.pt](mailto:void-design-studio@sapo.pt) · Website: [void-design-studio.pages.dev](https://void-design-studio.pages.dev)
+Empresas e grupos empresariais que querem uma presença online profissional, desde uma única landing page até uma família de websites com identidade coerente.
+
+### Vamos conversar
+
+Conte-nos o seu projeto e respondemos em breve.
+
+**Email:** [void-design-studio@sapo.pt](mailto:void-design-studio@sapo.pt)
+**Website:** [void-design-studio.pages.dev](https://void-design-studio.pages.dev)
 
 </details>
 
----
+<br />
 
 <div align="center">
-<sub>© Void Design Studio. All rights reserved.</sub>
+<sub>© Void Design Studio · Portugal. All rights reserved.</sub>
 </div>
